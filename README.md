@@ -6,7 +6,7 @@ Um Bot de código aberto, para que qualquer pessoal possa utilizar e colaborar c
 
 ## ♥ Doações sempre serão bem-vindas ♥
 
-- Wallet Smart Chain (BUSD/BNB/BCOIN/ZDC): `0xCD1A7A05DC2ee5d0CcB38a4e653e81A4CA78657c`
+- Wallet Smart Chain (BUSD/BNB/BCOIN/ZDCV2): `0xCD1A7A05DC2ee5d0CcB38a4e653e81A4CA78657c`
 - Chave Pix: `8c3b043a-b2c0-44df-a90d-41b3f4294614`
 
 ![alt text](https://github.com/sCryptoHelp/zodiacs-bot/blob/main/readme-doc/Pix.png?raw=true)
