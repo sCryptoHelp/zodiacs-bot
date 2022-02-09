@@ -1,2 +1,0 @@
-# zodiacs-bot
-zodiacs-bot

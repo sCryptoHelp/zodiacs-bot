@@ -1,0 +1,77 @@
+---
+
+  # [en_US] Time intervals configuration
+  #
+  time_intervals:
+    
+    # [en_US] Time interval between moviments
+    # Default value (in seconds): 1 
+    #
+    # [pt_BR] Intervalo de tempo entre movimentos
+    # Valor padrão (em segundos): 1
+    interval_between_moviments: 1
+
+  # [en_US] How confident the bot needs to be to click the buttons (values from 0 to 1. 0 is the minimum value, 1 is the maximum value)
+  #
+  # [pt_BR] O quão confiante o bot precisa estar para clicar nos botões (valores entre 0 e 1. 0 é o valor mínimo, 1 é o valor máximo)
+  #
+  threshold:
+
+    # ============================================================ #
+    # [en_US] Start - Edit this area according 
+    #
+    # [pt_BR] Inicio - Edite essa area 
+    # ============================================================ #
+
+    # [en_US] Let me know if you want a quickRace or comunRace
+    # Default value: comunRace
+    #
+    # [pt_BR] Informe se deseja quickRace ou comunRace
+    # Valor padrão: comunRace
+    typeRace: 'comunRace' # 'quickRace' or 'comunRace'
+
+    # ============================================================ #
+    # [en_US] End - Edit this area according
+    #
+    # [pt_BR] Fim - Edite essa area
+    # ============================================================ #
+
+    # [en_US]
+    # Default value: 0.7
+    #
+    # [pt_BR]
+    # Valor padrão: 0.7
+    default: 0.7
+
+    # [en_US]
+    # Default value: 0.8
+    #
+    # [pt_BR]
+    # Valor padrão: 0.8
+    select_wallet_buttons: 0.8
+
+    # [en_US]
+    # Default value: 0.9
+    #
+    # [pt_BR]
+    # Valor padrão: 0.9
+    base_position: 0.9
+
+    # [en_US]
+    # Default value: 0.9
+    #
+    # [pt_BR]
+    # Valor padrão: 0.9
+    commom_position: 0.8
+
+  home:
+    enable: False
+
+  # [en_US] Option for save logs to a file (logs.txt)
+  # Default value: False
+  # Available options: False or True
+  #
+  # [pt_BR] Opção para salvar os logs em arquivo (logs.txt)
+  # Valor padrão : False
+  # Opções disponíveis: False ou True
+  save_log_to_file: False
