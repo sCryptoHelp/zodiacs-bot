@@ -28,7 +28,7 @@
     #
     # [pt_BR] Informe se deseja quickRace ou comunRace
     # Valor padrão: comunRace
-    typeRace: 'comunRace' # 'quickRace' or 'comunRace'
+    type_race: 'comunRace' # 'quickRace' or 'comunRace'
 
     # ============================================================ #
     # [en_US] End - Edit this area according
