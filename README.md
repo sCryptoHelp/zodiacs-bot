@@ -3,7 +3,7 @@
 
 Um Bot de código aberto, para que qualquer pessoal possa utilizar e colaborar com updates.
 
-[![Watch the video](https://github.com/sCryptoHelp/zodiacs-bot/blob/main/readme-doc/banner.png?raw=true)](https://youtu.be/yWiG-_yrtLM)
+[![Watch the video](https://github.com/sCryptoHelp/zodiacs-bot/blob/main/readme-doc/banner.png?raw=true)](https://youtu.be/DR_Nv730mTw)
 
 
 ## ♥ Doações sempre serão bem-vindas ♥
