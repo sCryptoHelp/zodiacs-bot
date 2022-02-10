@@ -3,6 +3,8 @@
 
 Um Bot de código aberto, para que qualquer pessoal possa utilizar e colaborar com updates.
 
+![alt text](https://github.com/sCryptoHelp/zodiacs-bot/blob/main/readme-doc/banner.png?raw=true)
+
 
 ## ♥ Doações sempre serão bem-vindas ♥
 
