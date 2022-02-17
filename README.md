@@ -1,5 +1,7 @@
 # 🚗 Bot para o Zodiacs 🚗
 ## _Iniciando as Corridas por Voce_
+## Se for copiar para divulgar coloque nosso link nos créditos. 😉
+
 
 Um Bot de código aberto, para que qualquer pessoal possa utilizar e colaborar com updates.
 
